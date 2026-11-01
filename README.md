@@ -33,7 +33,7 @@ Keyboard fallback: `s` solve, `c` clear, `q` quit.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/magic-canvas.git
+git clone https://github.com/shreerampardeshi/magic-canvas.git
 cd magic-canvas
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
